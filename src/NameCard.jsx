@@ -7,7 +7,7 @@ function NameCard() {
         <div className="w-96 h-auto rounded-lg shadow-md bg-white p-4">
           <div className="flex items-center justify-center pb-4">
             <img
-              src="src\assets\Lenno Nardo 1 banding 1.png "
+              src="src\assets\lenno.png"
               alt=""
               className="h-20 rounded-full shadow-lg"
             />
