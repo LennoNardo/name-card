@@ -7,7 +7,7 @@ function NameCard() {
         <div className="w-96 h-auto rounded-lg shadow-md bg-white p-4">
           <div className="flex items-center justify-center pb-4">
             <img
-              src="https://avatars.githubusercontent.com/u/139934496?v=4"
+              src="public\lenno.png"
               alt=""
               className="h-20 rounded-full shadow-lg"
             />
