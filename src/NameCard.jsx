@@ -1,5 +1,7 @@
 import React from 'react'
-import lenno from './lenno.png'
+import lenno from './assets/lenno.png'
+
+
 
 function NameCard() {
   return (
